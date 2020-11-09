@@ -1,0 +1,1 @@
+IMAGE   imgSnake    "sprites/snake.png"  0
