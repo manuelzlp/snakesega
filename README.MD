@@ -4,6 +4,10 @@ Hello there! This is just another classical game clone. I made it some time ago,
 
 The compiled ROM of the game is "/out/rom.bin". You can open it with any Sega emulator.
 
+# WATCH ON YOUTUBE
+
+https://www.youtube.com/watch?v=Iog3YJf1cRk
+
 # CONTROLS
 
 Arrows to move the snake, Start to start the game!
